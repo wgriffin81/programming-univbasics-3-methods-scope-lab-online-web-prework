@@ -14,5 +14,5 @@ mario
 toadstool
 
 def link 
-  
+  puts "It/'s dangerous To Go Alone! Take This."
 end
