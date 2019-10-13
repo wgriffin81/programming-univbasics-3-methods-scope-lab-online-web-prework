@@ -12,3 +12,7 @@ end
 mario
 
 toadstool
+
+def link 
+  
+end
