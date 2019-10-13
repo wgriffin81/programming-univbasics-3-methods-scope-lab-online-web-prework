@@ -22,3 +22,5 @@ def any_phrase(x)
   x = phrase 
   puts "#{phrase}"
 end
+
+any_phrase()
