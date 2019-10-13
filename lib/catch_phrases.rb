@@ -14,5 +14,7 @@ mario
 toadstool
 
 def link 
-  puts "It/'s dangerous To Go Alone! Take This."
+  phrase = "It/'s dangerous To Go Alone! Take This."
+  puts phrase
 end
+
